@@ -1,0 +1,11 @@
+Recommended commands to show in demo:
+
+1. Interview the butler
+2. Search the study for evidence
+3. Check contradictions
+4. Where was Lady Evelyn at 9 PM?
+5. Show all evidence collected
+6. Interview Lady Evelyn
+7. Check contradictions again (should show inconsistency)
+8. (Optional) Simulate failure: Edit the state to mark butler as dead, then try to interview.
+9. Show LangSmith traces at https://smith.langchain.com
